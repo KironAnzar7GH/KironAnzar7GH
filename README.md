@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Anzarul Islam (Kiron) 👋
 
-<!--
-**KironAnzar7GH/KironAnzar7GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electronics and Communication Engineer (M.Tech, Aliah University) specializing in embedded hardware, IoT, and industrial automation. I am passionate about sensor fabrication, hardware prototyping, and utilizing electronics to solve real-world problems. 
 
-Here are some ideas to get you started:
+I am currently seeking engineering roles (Core Electronics, Embedded Firmware, Automation) or Ph.D./JRF opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+* **Hardware & Embedded:** Arduino (Uno/Mega 2560), Atmel AT89S52, FPGA, VHDL, Sensor Fabrication, Logic ICs (CD4093, 7476 JK Flip-Flops)
+* **Automation & UAV:** PLC, SCADA, Control Systems, UAV Assembly (ROS, Flight Control)
+* **Programming & Data:** Python, C, Pandas, VS Code, Dev C++
+
+## 🚀 Featured Projects
+* [**Low-Cost Frequency-Based Lactometer**](https://github.com/KironAnzar7GH/milk-adulteration-lactometer) 
+  *Designed a custom capacitive-frequency lactometer sensor for detecting milk adulteration using CD4093 oscillators, 7476 JK Flip-Flops, Arduino, and Python (PCA).*
+
+
+## 🎓 Certifications
+* **MeitY GIA Project:** Drone Based Aerial Surveillance & Image/Video Processing (RCCIIT)
+* **Ardent Pvt. Ltd:** Industrial Automation (PLC & SCADA)
+* **NASSCOM:** Artificial Intelligence - Business Intelligence Analyst
+
+## 📫 How to reach me
+* **Location:** Kolkata, West Bengal, India
+* **Email:** kironanza7@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/anzarul-islam-234564204?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
