@@ -22,10 +22,11 @@ I am currently seeking engineering roles (Core Electronics, Embedded Firmware, A
 ## 🎓 Certifications
 * **MeitY GIA Project:** Drone Based Aerial Surveillance & Image/Video Processing (RCCIIT)
 * **Ardent Pvt. Ltd:** Industrial Automation (PLC & SCADA)
+* **RKVY:** Basics of IT, Signal and Telecommunication in Indian Railway
 * **NASSCOM:** Artificial Intelligence - Business Intelligence Analyst
 
 ## 📫 How to reach me
-* **Location:** Kolkata, West Bengal, India
+* **Location:** Ashachia, Kaliganj, Nadia, PIN 741137, Kolkata, West Bengal, India
 * **Email:** kironanza7@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/anzarul-islam-234564204?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
