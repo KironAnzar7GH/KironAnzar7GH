@@ -2,7 +2,7 @@
 
 I am an Electronics and Communication Engineer (M.Tech, Aliah University) specializing in embedded hardware, IoT, and industrial automation. I am passionate about sensor fabrication, hardware prototyping, and utilizing electronics to solve real-world problems. 
 
-I am currently seeking engineering roles (Core Electronics, Embedded Firmware, Automation) or Ph.D opportunities.
+I am currently seeking engineering roles (Core Electronics, Embedded Firmware, Automation) or researcher - Ph.D opportunities.
 
 ## 🛠️ Technical Skills
 * **Hardware & Embedded:** Arduino (Uno/Mega 2560), Atmel AT89S52, FPGA, VHDL, Sensor Fabrication, Logic ICs (CD4093, 7476 JK Flip-Flops)
