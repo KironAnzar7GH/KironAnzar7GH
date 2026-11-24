@@ -13,7 +13,10 @@ I am currently seeking engineering roles (Core Electronics, Embedded Firmware, A
 * [**Low-Cost Frequency-Based Lactometer**](https://github.com/KironAnzar7GH/milk-adulteration-lactometer) 
   *Designed a custom capacitive-frequency lactometer sensor for detecting milk adulteration using CD4093 oscillators, 7476 JK Flip-Flops, Arduino, and Python (PCA).*
 
-
+[**QCM Gas Sensor System**](https://github.com/KironAnzar7GH/qcm-gas-sensor-enose)
+*Developed a low-cost, portable QCM sensor coated with MIP for volatile compound detection using an STM32 microcontroller and C++.
+[**JTAG TAP Controller FSM**](https://github.com/KironAnzar7GH/jtag-tap-controller-fpga)
+*Designed and simulated a 16-state JTAG boundary-scan TAP controller on a Spartan-3E FPGA using VHDL.
 ## 🎓 Certifications
 * **MeitY GIA Project:** Drone Based Aerial Surveillance & Image/Video Processing (RCCIIT)
 * **Ardent Pvt. Ltd:** Industrial Automation (PLC & SCADA)
